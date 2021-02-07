@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #2d2013;
+    color: #fff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+}
+
+.meal {
+    float: left;
+    margin-right: 20px;
+}
+
+.mealInfo {
+    display: inline;
+    cursor: pointer;
+}
+
+.meal img {
+    width: 250px;
+    border: 4px #fff solid;
+    border-radius: 2px;
+}
+
+.singleMeal img {
+    width: 350px;
+}
